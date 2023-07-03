@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    transition: 1.5s;
+    font-family: 'Montserrat';
+    font-style: normal;
+}
+
+*:hover {
+    text-decoration: none;
+}
+/* section start */
+/* colored buttons start */
+.block_imgs{
+    display: flex;
+    justify-content: space-around;
+}
+
+.chest{
+    width: 100%;
+}
+.block_1{
+    background: #00a6d872;
+    border: 1px solid #00A7D8;
+}
+.block_1:hover{
+    background: #00a6d872;
+    border: 2px solid #00A7D8;
+}
+.block_2{
+    background: #e2f4c08c;
+    border: 1px solid #E2F4C0;
+}
+.block_2:hover{
+    background: #e2f4c08c;
+    border: 2px solid #E2F4C0;
+}
+.block_3{
+    background: #e7e3fd88;
+    border: 1px solid #E7E3FD;
+}
+.block_3:hover{
+    background: #e7e3fd88;
+    border: 2px solid #E7E3FD;
+}
+.block_4{
+    background: #fdf0db87;
+    border: 1px solid #FDF0DB;
+}
+.block_4:hover{
+    background: #fdf0db87;
+    border: 2px solid #FDF0DB;
+}
+.block_5{
+    background: #DCF0E8;
+    border: 1px solid #8debc5;
+}
+.block_5:hover{
+    background: #DCF0E8;
+    border: 1px solid #8debc5;
+}
+.block_6{
+    background: #FFD3CB;
+    border: 1px solid #FFD3CB;
+}
+.block_6:hover{
+    background: #FFD3CB;
+    border: 2px solid #FFD3CB;
+}
+.block_7{
+    background: #ECF7FC;
+    border: 1px solid #ECF7FC;
+}
+.block_7:hover{
+    background: #00a6d872;
+    border: 2px solid #00A7D8;
+}
+.block_8{
+    background: #00a6d872;
+    border: 1px solid #00A7D8;
+}
+.block_8:hover{
+    background: #00a6d872;
+    border: 2px solid #00A7D8;
+}
+.block_9{
+    background: #00a6d872;
+    border: 1px solid #00A7D8;
+}
+.block_9:hover{
+    background: #00a6d872;
+    border: 2px solid #00A7D8;
+}

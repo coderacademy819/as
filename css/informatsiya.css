@@ -1,0 +1,486 @@
+* {
+    padding: 0;
+    margin: 5px 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+}
+
+.nav_img {
+    width: 210px;
+    height: 58px;
+}
+
+.nav_ul {
+    margin: 0 30px;
+
+}
+
+.nav-link {
+    font-family: 'TT Norms';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #313131;
+}
+
+.nav-link:hover {
+    font-family: 'TT Norms';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #313131;
+}
+
+.jc {
+    display: flex;
+    justify-content: center;
+}
+
+.btnn {
+    margin: 5px 100px;
+    width: 180px;
+    height: 51px;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    background: #009FDF;
+    transition: 2s;
+}
+
+.btnn:hover {
+    transition: 2s;
+    transform: scale(1.1);
+    width: 180px;
+    height: 51px;
+    color: #009FDF;
+    border: none;
+    border-radius: 3px;
+    background: blanchedalmond;
+}
+
+/* menu end */
+/* bcg start */
+.bcgg {
+    background: url(../img/mask\ group.png)no-repeat center center / cover;
+    width: 1504px;
+    height: 340px;
+    margin: auto;
+}
+
+.bloc {
+    padding: 100px 0;
+}
+
+.bcgg_lin {
+    margin: 52px 0;
+}
+
+.bcgg_h1 {
+    width: 700px;
+    font-family: 'TT Norms';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57px;
+    color: #fff;
+}
+
+.menu_h2 {
+    padding: 5px 0;
+    font-family: 'TT Norms';
+    font-size: 20px;
+    font-weight: 700;
+    color: #00A7D8;
+
+}
+
+.menu_h2:hover {
+    text-decoration: none;
+    list-style: none;
+    font-family: 'TT Norms';
+    font-size: 20px;
+    font-weight: 700;
+    color: antiquewhite;
+}
+
+.line {
+    width: 1100px;
+    border-bottom: 1px solid #000;
+    margin-left: -780px
+}
+
+.line_img {
+    width: 100px;
+}
+
+/* header end */
+/* section start */
+.keys-h1 {
+    font-size: 48px;
+    font-weight: 700;
+    list-style: none;
+    font-family: 'TT Norms';
+    line-height: 56px;
+}
+
+.box {
+    width: 600px;
+    height: 200px;
+    margin-top: 30px;
+    padding: 30px 30px;
+    border: 1px solid rgba(226, 234, 238, 1);
+}
+
+.box-h6 {
+    font-size: 24px;
+    font-weight: 700;
+    list-style: none;
+    font-family: 'TT Norms';
+    line-height: 28px;
+}
+
+.box-input {
+    width: 500px;
+    height: 5px;
+}
+
+.box-p1 {
+    float: left;
+
+    margin-right: 310px;
+}
+
+.box-p-1 {
+    float: left;
+
+    margin-right: 293px;
+    font-size: 17px;
+    font-weight: 700;
+    list-style: none;
+    font-family: 'TT Norms';
+    line-height: 21px;
+}
+
+.box-p-2 {
+    font-size: 17px;
+    font-weight: 700;
+    list-style: none;
+    font-family: 'TT Norms';
+    line-height: 21px;
+}
+
+.keys-p {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 400;
+    list-style: none;
+    font-family: 'TT Norms';
+    line-height: 30px;
+}
+
+/* section end */
+/* section 1 start */
+
+.proekt-h1 {
+    margin-top: 100px;
+}
+
+.menu_h3 {
+    font-family: 'TT Norms';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #233137;
+
+}
+.menu_h3:hover {
+    text-decoration: none;
+    list-style: none;
+    font-family: 'TT Norms';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: antiquewhite;
+}
+.block {
+    margin: 100px 0px;
+    width: 1100px;
+    height: 712px;
+    border: 1px solid rgba(226, 234, 238, 1);
+    ;
+    padding: 25px 25px;
+}
+.rotate {
+    width: 710.0000000000000px;
+    margin-left: 150px;
+    border: 1px solid rgba(226, 234, 238, 1);
+    rotate: -90deg;
+}
+.atdixa-h1 {
+    font-family: TT Norms;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+}
+.atdixa-input {
+    width: 350px;
+    height: 5px;
+   
+}
+.atdixa-p {
+    margin: -40px 260px;
+    font-family: TT Norms;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+}
+.block-p1 {
+    margin-top: 50px;
+    font-family: TT Norms;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+.block-p {
+    margin: -35px 240px;
+    margin-right: 100px;
+    font-family: TT Norms;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+.min-box-h1 {
+    font-family: TT Norms;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    padding-top: 80px;
+}
+.min-box-input {
+    width: 275px;
+    height: 36px;
+    border: 1px solid grey;
+    padding-left: 15px;   
+    opacity: 0.5px;
+    
+}
+.min-box-span{
+    margin-left: -50px;
+    font-family: TT Norms;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: right;
+color: #000;
+}
+
+.btnz {
+    width: Hug (66px);
+    height: Hug (33px);
+    padding: 6px 15px 9px 15px;
+    gap: 10px;
+    margin: 20px 0px;
+    border: 1px solid rgba(0, 167, 216, 1);
+}
+.btnz {
+    font-family: TT Norms;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    background: rgba(0, 167, 216, 1);
+    color: #fff;
+    transition: 3s;
+}
+.btnz:hover {
+    border: 1px solid red;
+    color: red;
+    background: #fff;
+    transform: scale(1.1);
+}
+.input-radio1 {
+    width: 13px;
+    height: 13px;
+}
+.input-radio {
+    width: 13px;
+    height: 13px;
+    margin-left: 50px;
+}
+.input-spn {
+    font-family: TT Norms;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+/* col-6 start */
+.layout-input {
+    width: 398px;
+    height: 46px;
+    margin: 10px 0px;
+    padding-left: 30px;
+}
+.layout-placeholder {
+    margin: 0px 30px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+.layout-checkbox {
+    width: 20px;
+    height: 20px;
+    border: 1px;
+    opacity: 0.5px;
+
+}
+
+.layout-span {
+    font-family: TT Norms;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    margin-top: -200px;
+
+}
+
+.oplata {
+    color: Blue;
+}
+
+.btna {
+    width: 200px;
+    height: 52px;
+    margin-left: 100px;
+    border: 1px solid rgba(0, 167, 216, 1);
+    font-family: TT Norms;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    background: rgba(0, 167, 216, 1);
+    color: #fff;
+    transition: 3s;
+    border-radius: 5px;
+
+}
+
+.btna:hover {
+    border: 1px solid rgba(0, 167, 216, 1);
+    color: rgba(0, 167, 216, 1);
+    background: #fff;
+    transform: scale(1.1);
+}
+
+.visa ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 0px;
+}
+.text-min{
+    width: 1100px;
+height: 99px;
+background: rgba(226, 234, 238, 1);
+
+}
+.text h1{
+    margin: 30px 0px;
+    font-family: TT Norms;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    color:  rgba(152, 163, 173, 1);
+
+}
+.text-p {
+    font-family: TT Norms;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+color:  rgba(152, 163, 173, 1);
+
+}
+.text-min-p{
+    padding: 20px 20px;
+}
+.text-min-span{
+  color: #000;
+
+
+}
+/* footer start */
+.container {
+    max-width: 1200px;
+    width: 100%;
+}
+
+.foot {
+    width: 1600px;
+    height: 366px;
+    background: rgba(238, 238, 238, 1);
+    padding: 100px 100px;
+    margin: 50px -200px;
+}
+
+.footer-img {
+    width: 210px;
+    height: 58px;
+}
+
+.footer-img1 {
+    width: 111px;
+    height: 53px;
+}
+
+.footer-h1 {
+    font-family: TT Norms;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.footer-li {
+    width: 210px;
+}
+
+.footer-li1 {
+    width: 210px;
+}
+
+.footer-a {
+    text-align: left;
+    font-family: TT Norms;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: rgba(49, 49, 49, 1);
+}
